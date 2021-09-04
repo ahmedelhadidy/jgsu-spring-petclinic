@@ -30,6 +30,7 @@
     <jacoco.version>0.8.7</jacoco.version>
     <nohttp-checkstyle.version>0.0.4.RELEASE</nohttp-checkstyle.version>
     <spring-format.version>0.0.22</spring-format.version>
+    <jacoco.skip>true</jacoco.skip>
   </properties>
 
   <dependencies>
